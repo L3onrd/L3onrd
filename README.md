@@ -1,47 +1,40 @@
-<p align="center">
-  <img src="https://i.imgur.com/k2yB47n.jpeg" alt="Banner" width="100%"/>
-</p>
+# Hi, I'm Leonard Julian Gandena 👋
 
-<h1>
-  <p align="center">Hi, I'm Leonard Julian Gandena 👋</p>
-</h1>
+Hey there 👋
 
-<p align="center">
-  A passionate <b>Informatics Engineering</b> undergraduate student at <b>Universitas AMIKOM Yogyakarta</b>, deeply interested in the world of technology and programming. <br> 
-  I specialize in <b>Big Data</b>, <b>Software Engineering</b>, and <b>Game Development</b>, and I'm always eager to explore new knowledge and push boundaries in these fields.
-</p>
+I'm Leonard — an Informatics Engineering student with a strong interest in **Big Data**, **Software Engineering**, and **Game Development**.  
+I'm always exploring new technologies, designing systems, and crafting game mechanics with logic and creativity.  
+Proficient in C++, C#, and Python — I aim to bridge data, gameplay, and software into seamless digital experiences.
 
-<p align="center">
-  <a href="https://L3onrd.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/L3onrd">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+---
 
-<h2 align="center">Technology Stack</h2>
-<table width="100%">
-  <tr>
-    <td align="center">
-      <strong>Programming Languages</strong><br><br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Tools & Platforms</strong><br><br>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    </td>
-  </tr>
-</table>
+### 📊 Git Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L3onrd&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L3onrd&layout=compact&theme=tokyonight)
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L3onrd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Leonard's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3onrd&layout=compact&langs_count=8&theme=tokyonight" alt="Leonard's Top Languages"/>
-</p>
+---
+
+### 🔗 Social
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white)](https://L3onrd.github.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/L3onrd)
+
+---
+
+### 🧠 Technology Stack
+
+**Languages**
+  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Editors**
+  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🕹️ Quote of the Day
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
